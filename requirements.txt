@@ -1,11 +1,3 @@
-appdirs==1.4.3
-certifi==2017.7.27.1
-chardet==3.0.4
-cx-Freeze==5.0.2
-idna==2.6
-olefile==0.44
-Pillow==4.2.1
-pytest==3.2.5
-requests==2.18.4
-urllib3==1.22
-pypiwin32 >=1.0 ; sys_platform == 'win32'
+requests
+Pillow
+appdirs
