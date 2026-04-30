@@ -2,6 +2,7 @@
 
 #### Desktop Weather Application for Linux and Windows<br>
 Author: Pratham Tiwari
+
 Email: pt999962@gmail.com
 
 ![Screenshot](https://user-images.githubusercontent.com/26039401/33391594-79bad240-d531-11e7-9826-c2e248f95fae.jpg)
